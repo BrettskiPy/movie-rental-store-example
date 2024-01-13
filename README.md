@@ -1,10 +1,10 @@
 # Video Rental Store Project
-![image](https://github.com/BrettskiPy/movie-rental-store-example/assets/30988215/b6541c8b-311f-4884-845c-bf535bf8c0df)
+<img src="https://github.com/BrettskiPy/movie-rental-store-example/assets/30988215/b6541c8b-311f-4884-845c-bf535bf8c0df" width="50%" height="auto">
 
 ## Overview
 This educational project is designed to demonstrate the use of the Strategy Pattern and interfaces in a PHP project. The project is structured into various classes and interfaces, each demonstrating key principles of object-oriented programming and design patterns. For additional information about the Strategy Pattern see [this article](https://refactoring.guru/design-patterns/strategy) by refactoring.guru
 
-## Concept of Strategy Pattern
+## Strategy Pattern Concept
 The Strategy Pattern is a behavioral design pattern that enables selecting an algorithm's runtime behavior. It defines a family of algorithms, encapsulates each one, and makes them interchangeable without altering the client's code. This pattern is used to:
 - Separate the behavior (strategy) from the class that uses the algorithm (context).
 - Enable the addition of new strategies without modifying the context.

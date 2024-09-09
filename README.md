@@ -1,5 +1,4 @@
 # Video Rental Store Project
-<img src="https://github.com/BrettskiPy/movie-rental-store-example/assets/30988215/b6541c8b-311f-4884-845c-bf535bf8c0df" width="50%" height="auto">
 
 ## Overview
 This educational project is designed to demonstrate the use of the Strategy Pattern and interfaces in a PHP project. The project is structured into various classes and interfaces, each demonstrating key principles of object-oriented programming and design patterns. For additional information about the Strategy Pattern see [this article](https://refactoring.guru/design-patterns/strategy) by refactoring.guru
